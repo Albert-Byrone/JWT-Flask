@@ -8,3 +8,4 @@ db = SQLAlchemy(app)
 
 
 from api import routes
+
